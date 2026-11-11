@@ -1,0 +1,54 @@
+ProjectMW Third-Party Notices
+=============================
+
+ProjectMW is licensed under the MIT License (see LICENSE). The Windows
+release also includes the following third-party software. The full license
+texts are in the "licenses" folder.
+
+
+Qt for Python (PySide6, Shiboken6) and Qt 6
+-------------------------------------------
+Copyright (C) The Qt Company Ltd. and other contributors.
+https://www.qt.io/qt-for-python
+
+Used under the GNU Lesser General Public License, version 3
+(licenses/LGPL-3.0.txt, which supplements licenses/GPL-3.0.txt).
+
+The Qt libraries are shipped as separate, unmodified DLL files in the
+application's "_internal" folder. You may replace them with your own
+compatible builds. The source code of Qt and Qt for Python is available at
+https://code.qt.io and https://download.qt.io/official_releases/QtForPython/.
+ProjectMW uses PySide6 version 6.11.2.
+
+
+Python
+------
+Copyright (c) 2001 Python Software Foundation. All rights reserved.
+https://www.python.org
+
+Used under the Python Software Foundation License (licenses/Python.txt),
+which also lists the licenses of components bundled with Python.
+
+
+Outfit font
+-----------
+Copyright 2021 The Outfit Project Authors
+https://github.com/Outfitio/Outfit-Fonts
+
+Licensed under the SIL Open Font License, Version 1.1
+(licenses/OFL-1.1-Outfit.txt).
+
+
+Microsoft Visual C++ Runtime
+----------------------------
+The runtime DLLs (VCRUNTIME140, MSVCP140 and the Universal C Runtime) are
+redistributed under the terms of the Microsoft Visual Studio redistribution
+license.
+
+
+PyInstaller bootloader
+----------------------
+The application executable was built with PyInstaller
+(https://pyinstaller.org). The PyInstaller bootloader is licensed under the
+GNU General Public License with a special exception that allows it to be
+used in any program, including commercial and non-free ones.
