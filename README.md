@@ -2,17 +2,11 @@
 
 A calm, minimal wallpaper picker for Windows, inspired by the PSP's XMB menu.
 
-
-
 https://github.com/user-attachments/assets/f16ed9ab-d98b-4888-b07f-ba00c12367ea
 
-
-
-
+Open ProjectMW and your desktop dims behind a single row of wallpapers. Glide through them, stop on the one you like and press Apply. A soft light sweeps across the screen and your new wallpaper is in place.
 
 ![ProjectMW gallery](docs/gallery.png)
-
-Open ProjectMW and your desktop dims behind a single row of wallpapers. Glide through them, stop on the one you like and press Apply. A soft light sweeps across the screen and your new wallpaper is in place.
 
 ## Download
 
