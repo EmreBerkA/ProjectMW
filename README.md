@@ -2,7 +2,13 @@
 
 A calm, minimal wallpaper picker for Windows, inspired by the PSP's XMB menu.
 
-<!-- demo video here -->
+
+
+https://github.com/user-attachments/assets/f16ed9ab-d98b-4888-b07f-ba00c12367ea
+
+
+
+
 
 ![ProjectMW gallery](docs/gallery.png)
 
