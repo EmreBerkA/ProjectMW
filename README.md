@@ -10,7 +10,7 @@ Open ProjectMW and your desktop dims behind a single row of wallpapers. Glide th
 
 ## Download
 
-Get the latest installer from the [Releases page](https://github.com/EmreBerkA/ProjectMW/releases/latest).
+Get the latest installer from the [Releases page](https://github.com/EmreBerkA/ProjectMW/releases/latest) or from [itch.io](https://emreberk.itch.io/projectmw).
 
 - **Setup:** `ProjectMW-1.0.0-Setup.exe` installs for your user only, no admin rights needed.
 - **Portable:** unzip `ProjectMW-1.0.0-Portable.zip` anywhere and run `ProjectMW.exe`.
